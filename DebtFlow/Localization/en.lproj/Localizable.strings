@@ -1,0 +1,53 @@
+/* Main Tab Bar */
+"tab.debts" = "Debts";
+"tab.statistics" = "Statistics";
+"tab.settings" = "Settings";
+
+/* Debts Screen */
+"debts.title" = "Debts";
+"debts.all" = "All";
+"debts.im_owed" = "I'm Owed";
+"debts.i_owe" = "I Owe";
+"debts.add_new" = "Add Debt";
+"debts.edit" = "Edit Debt";
+"debts.delete" = "Delete";
+"debts.mark_complete" = "Mark Complete";
+"debts.mark_incomplete" = "Mark Incomplete";
+
+/* Add/Edit Debt Form */
+"form.person_name" = "Person Name";
+"form.description" = "Description";
+"form.amount" = "Amount";
+"form.date" = "Date";
+"form.type" = "Type";
+"form.owed_to_me" = "Owed to Me";
+"form.i_owe" = "I Owe";
+"form.save" = "Save";
+"form.cancel" = "Cancel";
+"form.add" = "Add";
+
+/* Statistics Screen */
+"statistics.title" = "Statistics";
+"statistics.debt_distribution" = "Debt Distribution";
+"statistics.summary" = "Summary";
+"statistics.active_debts" = "Active Debts";
+"statistics.completed_debts" = "Completed Debts";
+"statistics.total_owed_to_me" = "Total Owed to Me";
+"statistics.total_i_owe" = "Total I Owe";
+"statistics.net_balance" = "Net Balance";
+"statistics.no_data" = "No debt data available";
+
+/* Settings Screen */
+"settings.title" = "Settings";
+"settings.language" = "Language";
+"settings.english" = "English";
+"settings.russian" = "Russian";
+"settings.preferences" = "Preferences";
+"settings.about" = "About";
+"settings.version" = "Version";
+
+/* Common */
+"common.currency" = "$";
+"common.no_debts" = "No debts";
+"common.error" = "Error";
+"common.success" = "Success";
