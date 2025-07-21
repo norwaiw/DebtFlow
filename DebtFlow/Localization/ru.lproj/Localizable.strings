@@ -1,0 +1,53 @@
+/* Main Tab Bar */
+"tab.debts" = "Долги";
+"tab.statistics" = "Статистика";
+"tab.settings" = "Настройки";
+
+/* Debts Screen */
+"debts.title" = "Долги";
+"debts.all" = "Все";
+"debts.im_owed" = "Мне должны";
+"debts.i_owe" = "Я должен";
+"debts.add_new" = "Добавить долг";
+"debts.edit" = "Изменить долг";
+"debts.delete" = "Удалить";
+"debts.mark_complete" = "Отметить выполненным";
+"debts.mark_incomplete" = "Отметить невыполненным";
+
+/* Add/Edit Debt Form */
+"form.person_name" = "Имя человека";
+"form.description" = "Описание";
+"form.amount" = "Сумма";
+"form.date" = "Дата";
+"form.type" = "Тип";
+"form.owed_to_me" = "Мне должны";
+"form.i_owe" = "Я должен";
+"form.save" = "Сохранить";
+"form.cancel" = "Отмена";
+"form.add" = "Добавить";
+
+/* Statistics Screen */
+"statistics.title" = "Статистика";
+"statistics.debt_distribution" = "Распределение долгов";
+"statistics.summary" = "Сводка";
+"statistics.active_debts" = "Активные долги";
+"statistics.completed_debts" = "Завершенные долги";
+"statistics.total_owed_to_me" = "Всего мне должны";
+"statistics.total_i_owe" = "Всего я должен";
+"statistics.net_balance" = "Чистый баланс";
+"statistics.no_data" = "Нет данных о долгах";
+
+/* Settings Screen */
+"settings.title" = "Настройки";
+"settings.language" = "Язык";
+"settings.english" = "Английский";
+"settings.russian" = "Русский";
+"settings.preferences" = "Предпочтения";
+"settings.about" = "О приложении";
+"settings.version" = "Версия";
+
+/* Common */
+"common.currency" = "₽";
+"common.no_debts" = "Нет долгов";
+"common.error" = "Ошибка";
+"common.success" = "Успешно";
